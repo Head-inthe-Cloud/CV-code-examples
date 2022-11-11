@@ -18,3 +18,8 @@ This folder contains the code example for my work as an undergraduate research a
 **combine_chunks.py**
 
 **data_file_organizer.py**
+
+
+## Example Outcomes
+![image grid 1](./P33C1.png)
+![image grid 2](./P42C8.png)
