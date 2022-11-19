@@ -1,4 +1,4 @@
-# Micro-AV Lidar
+# Bayesian 2D-Range LiDAR Cone Detection
 
 # Set up Environment 
 
