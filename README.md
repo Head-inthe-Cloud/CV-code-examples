@@ -1,5 +1,5 @@
 # CV-code-examples
-This is a repo for my computer vision related code examples. Last updated on 11/19/2022.
+This is a repo for Yunqian Cheng's computer vision related code examples. Last updated on 11/19/2022.
 
 ## LiDAR Cone Detection
 This codebase uses Bayes Theorem to detect traffic cones from 2D-Range LiDAR data points. It is a part of the obstacle detection tasks for the "Millipod" autonomous vehicle project.
