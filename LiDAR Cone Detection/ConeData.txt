@@ -1,0 +1,12 @@
+Cone: 1
+LM_GPS_E: 47.659063
+LM_GPS_N: -122.215997
+diameter: 0.3
+Cone: 2
+LM_GPS_E: 47.659063
+LM_GPS_N: -122.315997
+diameter: 0.3
+Cone: 3
+LM_GPS_E: 47.659063
+LM_GPS_N: -122.415997
+diameter: 0.3
